@@ -1,0 +1,8 @@
+{
+  "name": "Student Life OS",
+  "description": "A centralized digital workspace designed for students to manage assignments, attendance, exams, internships, and AI-powered note summarization.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}

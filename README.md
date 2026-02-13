@@ -1,6 +1,20 @@
-# Student-dashboard
+<div align="center">
+<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
+</div>
 
-What Opportunity Have We Identified? As students, we constantly juggle assignments, attendance, group projects, exams, internship applications, and personal schedules across multiple platforms like WhatsApp(https://web.whatsapp.com/), emails(https://outlook.live.com/mail/), college portals(https://idp.unibocconi.it/idp/profile/SAML2/POST/SSO?execution=e1s1) integrate the links in the web application. This fragmentation creates stress, missed deadlines, and poor time management, even for capable students. The opportunity lies in creating a single integrated system that simplifies academic and career management in one place. Instead of switching between five different tools, students can rely on one structured digital workspace designed specifically for their daily academic life. This gap is large, universal across colleges, and currently underserved by generic productivity apps.
-Description of the Idea: The Student Life Operating System is a centralized digital platform designed to organize and streamline every essential aspect of a student’s academic journey. It combines assignment tracking, attendance monitoring, exam scheduling, group collaboration, internship management, and smart reminders into one intuitive dashboard. Unlike generic productivity tools, this system is built specifically around student workflows, academic calendars, and peer collaboration needs.
-The platform would allow students to input or sync their course schedules, receive automated deadline alerts, manage shared project tasks with teammates, store notes, and monitor attendance requirements. An additional feature could include AI-based summarization of lecture notes and personalized productivity insights based on usage patterns.
-The goal is not just organization but reduction of cognitive overload. By eliminating fragmentation and providing clarity, the system helps students focus more on learning and skill development rather than administrative chaos. The idea is scalable across institutions and can begin as a simple no-code prototype before evolving into a full-fledged mobile or web application.
+# Run and deploy your AI Studio app
+
+This contains everything you need to run your app locally.
+
+View your app in AI Studio: https://ai.studio/apps/drive/1WmfoeHR6BrRCXVT-gBeaW-kkdln7kgGk
+
+## Run Locally
+
+**Prerequisites:**  Node.js
+
+
+1. Install dependencies:
+   `npm install`
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+3. Run the app:
+   `npm run dev`
